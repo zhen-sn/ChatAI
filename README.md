@@ -1,3 +1,4 @@
+![示例图片](/1.jpg "这是一张示例图片")
 # 码多多ChatAI-聊天绘画系统「PHP源码版」
 码多多 ChatAI - 聊天绘画系统「PHP 源码版」，基于前后端分离架构以及 Vue3、uni-app、ThinkPHP6.x、PHP8.0 技术栈开发，包含 PC 端、H5 端、小程序端、APP 端。
 
@@ -8,6 +9,8 @@ ChatAI 聚合对接国内外知名主流大语言模型接口及中转平台，�
 手机 H5 演示：https://chat.chatmoney.cn/mobile/
 PC 演示：https://chat.chatmoney.cn
 管理后台：https://chat-demo.chatmoney.cn/admin （admin / 123456）
+
+![示例图片](/0.png "这是一张示例图片")
 
 ## 源码授权
 * 无授权，不可对外使用。 提供最新版本安装包，可学习研究，后端功能PHP全开源，价格：299/套
@@ -56,3 +59,5 @@ PC 演示：https://chat.chatmoney.cn
 完美的兼容了 PC 端、手机端和平板等各类设备访问。
 - 联系客服
 在线客服满足了沟通实时性需求，快速解答用户疑问，持续构建平台信任感。
+
+![示例图片](/kefu.jpg "这是一张示例图片")
